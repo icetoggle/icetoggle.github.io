@@ -1,1 +1,2 @@
+theme: minma
 my blog
