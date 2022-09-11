@@ -1,2 +1,2 @@
-theme: minma
+theme: Architect
 my blog
